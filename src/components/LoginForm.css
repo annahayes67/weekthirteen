@@ -1,0 +1,18 @@
+.Login{
+    position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid grey;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  height: 25vh;
+  text-align: center;
+}
+
+button{
+  width: 80px;
+  height: 20px;
+  
+}
